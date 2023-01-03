@@ -7,7 +7,7 @@ body
 
 #myCarousel
 {
-    background-image:linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+    background-image:linear-gradient(green,blue,indigo,violet);
 }
 
 #myCarousel img{
@@ -20,5 +20,16 @@ body
     color: white;
     font-size: 20px;
 }
+
+#myCarousel2
+{
+    background-image:linear-gradient(red,orange,yellow,green);
+}
+
+#myCarousel2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
 
 
